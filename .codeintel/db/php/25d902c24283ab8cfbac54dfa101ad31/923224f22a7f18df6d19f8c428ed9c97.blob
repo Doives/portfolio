@@ -1,0 +1,1 @@
+<scope ilk="blob" lang="PHP" name="template.php" src="src/template.php"><import line="4" module="head.php" /><import line="11" module="navbar.php" /><import line="16" module="footer.php" /></scope>

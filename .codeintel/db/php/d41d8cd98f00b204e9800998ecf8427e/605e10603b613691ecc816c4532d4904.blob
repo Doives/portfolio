@@ -1,0 +1,1 @@
+<scope ilk="blob" lang="PHP" name="index.php" src="index.php"><import line="19" module="src/template.php" /><variable citdl="string" ilk="constant" line="6" name="DEFAULT_PAGE" /><variable line="10" name="pages" /><variable citdl="DEFAULT_PAGE" line="11" name="pageToDisplay" /></scope>

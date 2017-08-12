@@ -1,0 +1,1 @@
+<scope ilk="blob" lang="PHP" name="home.php" src="src/home.php"><import line="3" module="src/assets/home/header.php" /><import line="4" module="src/assets/home/grid.php" /><import line="5" module="src/assets/home/contact-us.php" /><import line="6" module="src/assets/home/about.php" /><import line="7" module="src/assets/home/pro.php" /></scope>
